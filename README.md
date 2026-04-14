@@ -5,6 +5,18 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de automação
 
 A aplicação realiza a leitura de dados, processamento, análise e geração de relatórios automatizados a partir de um arquivo .csv.
 
+📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes como:
+
+Manipulação de dados com Pandas
+Leitura e escrita de arquivos CSV
+Estruturação de scripts Python
+Filtragem e análise de dados
+Criação de gráficos com Matplotlib
+Automação de tarefas repetitivas
+
+
 🎯 Objetivos do Projeto
 
 Praticar Python na prática
@@ -57,16 +69,7 @@ Instale as dependências:
 pip install pandas matplotlib
 Execute o projeto:
 python main.py
-📚 Aprendizados
 
-Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes como:
-
-Manipulação de dados com Pandas
-Leitura e escrita de arquivos CSV
-Estruturação de scripts Python
-Filtragem e análise de dados
-Criação de gráficos com Matplotlib
-Automação de tarefas repetitivas
 
 💡 Possíveis Melhorias Futuras
 Interface gráfica com Streamlit
