@@ -6,6 +6,7 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de automação
 A aplicação realiza a leitura de dados, processamento, análise e geração de relatórios automatizados a partir de um arquivo .csv.
 
 🎯 Objetivos do Projeto
+
 Praticar Python na prática
 Automatizar leitura e processamento de dados
 Realizar análises simples de vendas
@@ -47,6 +48,7 @@ automacao-analise-vendas-python/
 
 
 ▶️ Como Executar o Projeto
+
 Clone o repositório:
 git clone https://github.com/seu-usuario/automacao-analise-vendas-python.git
 Acesse a pasta do projeto:
@@ -65,11 +67,13 @@ Estruturação de scripts Python
 Filtragem e análise de dados
 Criação de gráficos com Matplotlib
 Automação de tarefas repetitivas
+
 💡 Possíveis Melhorias Futuras
 Interface gráfica com Streamlit
 Integração com banco de dados
 Automatização de envio de relatórios
 Dashboard interativo
+
 👩‍💻 Autora
 
-Projeto desenvolvido por [Tatiana Kamioka]
+Projeto desenvolvido por Tatiana Kamioka
